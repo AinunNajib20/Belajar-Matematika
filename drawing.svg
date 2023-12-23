@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72704"
+     inkscape:cx="437.38997"
+     inkscape:cy="407.13028"
+     inkscape:window-width="813"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1521"
+       x="-0.0090181305"
+       y="-0.017098812"
+       width="1.0180363"
+       height="1.0341976">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0248665"
+         id="feGaussianBlur1523" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9379"
+       inkscape:export-filename="E:\Najib\Game\Game Edukasi\Assets\gambar\Bg.png"
+       inkscape:export-xdpi="79.01194"
+       inkscape:export-ydpi="79.01194">
+      <rect
+         style="fill:#23aeff;stroke:#ffffff;stroke-width:2.75616;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1"
+         id="rect53"
+         width="157.94064"
+         height="86.612617"
+         x="37.847527"
+         y="75.695053"
+         rx="11.710941" />
+      <rect
+         style="fill:#ffffff;stroke:#fff113;stroke-width:2.21397985;stroke-linejoin:round;stroke-opacity:1;opacity:1;filter:url(#filter1521);stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect53-0"
+         width="129.36934"
+         height="68.231033"
+         x="52.133186"
+         y="84.885841"
+         rx="9.5924435" />
+    </g>
+  </g>
+</svg>
